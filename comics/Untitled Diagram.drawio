@@ -18,7 +18,7 @@
         <mxCell id="THmRKBEEggR5LSUC0T85-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Are you using the same OS as the tool developers?" vertex="1">
           <mxGeometry height="60" width="160" x="410" y="230" as="geometry" />
         </mxCell>
-        <mxCell id="THmRKBEEggR5LSUC0T85-7" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="YES" vertex="1">
+        <mxCell id="THmRKBEEggR5LSUC0T85-7" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Yes" vertex="1">
           <mxGeometry height="30" width="80" x="470" y="150" as="geometry" />
         </mxCell>
         <mxCell id="THmRKBEEggR5LSUC0T85-8" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="No" vertex="1">
