@@ -1,0 +1,30 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0" version="29.2.7">
+  <diagram name="Page-1" id="VPS9k8r5JcaBgSuBneIL">
+    <mxGraphModel dx="991" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="THmRKBEEggR5LSUC0T85-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="THmRKBEEggR5LSUC0T85-6" edge="1" parent="1" source="THmRKBEEggR5LSUC0T85-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.55;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" target="THmRKBEEggR5LSUC0T85-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="THmRKBEEggR5LSUC0T85-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Are you using the same OS as the tool developers?" vertex="1">
+          <mxGeometry height="60" width="160" x="260" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="THmRKBEEggR5LSUC0T85-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Are you using the same OS as the tool developers?" vertex="1">
+          <mxGeometry height="60" width="160" x="410" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="THmRKBEEggR5LSUC0T85-7" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="YES" vertex="1">
+          <mxGeometry height="30" width="80" x="470" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="THmRKBEEggR5LSUC0T85-8" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="No" vertex="1">
+          <mxGeometry height="30" width="80" x="270" y="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
