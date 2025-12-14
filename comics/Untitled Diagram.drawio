@@ -4,25 +4,58 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="THmRKBEEggR5LSUC0T85-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="320" y="360" as="geometry" />
-        </mxCell>
         <mxCell id="THmRKBEEggR5LSUC0T85-6" edge="1" parent="1" source="THmRKBEEggR5LSUC0T85-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.55;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" target="THmRKBEEggR5LSUC0T85-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="THmRKBEEggR5LSUC0T85-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Are you using the same OS as the tool developers?" vertex="1">
-          <mxGeometry height="60" width="160" x="260" y="90" as="geometry" />
+        <mxCell id="THmRKBEEggR5LSUC0T85-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Is the tool designed for your project&#39;s domain?" vertex="1">
+          <mxGeometry height="60" width="140" x="60" y="30" as="geometry" />
         </mxCell>
         <mxCell id="THmRKBEEggR5LSUC0T85-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Are you using the same OS as the tool developers?" vertex="1">
-          <mxGeometry height="60" width="160" x="410" y="230" as="geometry" />
+          <mxGeometry height="60" width="160" x="160" y="130" as="geometry" />
         </mxCell>
         <mxCell id="THmRKBEEggR5LSUC0T85-7" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Yes" vertex="1">
-          <mxGeometry height="30" width="80" x="470" y="150" as="geometry" />
+          <mxGeometry height="30" width="80" x="210" y="80" as="geometry" />
         </mxCell>
         <mxCell id="THmRKBEEggR5LSUC0T85-8" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="No" vertex="1">
-          <mxGeometry height="30" width="80" x="270" y="200" as="geometry" />
+          <mxGeometry height="30" width="80" x="80" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="eal3lvzM3isHt_0vYX2R-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;glass=0;shadow=1;" value="Too bad! Your plebian project isn&#39;t worthy of formal methods!&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="180" x="40" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="eal3lvzM3isHt_0vYX2R-2" edge="1" parent="1" source="THmRKBEEggR5LSUC0T85-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="eal3lvzM3isHt_0vYX2R-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="130" as="sourcePoint" />
+            <mxPoint x="278" y="169" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eal3lvzM3isHt_0vYX2R-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Are you using the same language version as the tool developers?" vertex="1">
+          <mxGeometry height="60" width="160" x="280" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="eal3lvzM3isHt_0vYX2R-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Are the tool developers responsive to questions?" vertex="1">
+          <mxGeometry height="60" width="160" x="590" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="eal3lvzM3isHt_0vYX2R-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Are you using the same libraries as the tool developers?" vertex="1">
+          <mxGeometry height="60" width="180" x="380" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="eal3lvzM3isHt_0vYX2R-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Are the tool developers still alive?" vertex="1">
+          <mxGeometry height="40" width="190" x="350" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="eal3lvzM3isHt_0vYX2R-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Can you get any answers with an Ouija board" vertex="1">
+          <mxGeometry height="60" width="160" x="400" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="eal3lvzM3isHt_0vYX2R-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;glass=0;shadow=1;" value="You have enough problems without adding formal methods" vertex="1">
+          <mxGeometry height="60" width="180" x="170" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="eal3lvzM3isHt_0vYX2R-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Is the documentation comprehensive, complete, and correct?" vertex="1">
+          <mxGeometry height="60" width="210" x="590" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="eal3lvzM3isHt_0vYX2R-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;glass=0;shadow=1;" value="Huh. The formal methods stars may have aligned on your project." vertex="1">
+          <mxGeometry height="60" width="190" x="600" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="eal3lvzM3isHt_0vYX2R-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Are you hallucinating or dreaming?" vertex="1">
+          <mxGeometry height="40" width="210" x="450" y="590" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
