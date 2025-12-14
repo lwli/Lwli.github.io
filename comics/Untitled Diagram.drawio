@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0" version="29.2.7">
   <diagram name="Page-1" id="VPS9k8r5JcaBgSuBneIL">
-    <mxGraphModel dx="991" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="991" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,40 +22,106 @@
           <mxGeometry height="30" width="80" x="80" y="150" as="geometry" />
         </mxCell>
         <mxCell id="eal3lvzM3isHt_0vYX2R-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;glass=0;shadow=1;" value="Too bad! Your plebian project isn&#39;t worthy of formal methods!&amp;nbsp;" vertex="1">
-          <mxGeometry height="60" width="180" x="40" y="440" as="geometry" />
+          <mxGeometry height="60" width="180" x="40" y="840" as="geometry" />
         </mxCell>
-        <mxCell id="eal3lvzM3isHt_0vYX2R-2" edge="1" parent="1" source="THmRKBEEggR5LSUC0T85-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="eal3lvzM3isHt_0vYX2R-1">
+        <mxCell id="eal3lvzM3isHt_0vYX2R-2" edge="1" parent="1" source="THmRKBEEggR5LSUC0T85-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="eal3lvzM3isHt_0vYX2R-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="150" y="130" as="sourcePoint" />
             <mxPoint x="278" y="169" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eal3lvzM3isHt_0vYX2R-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Are you using the same language version as the tool developers?" vertex="1">
-          <mxGeometry height="60" width="160" x="280" y="210" as="geometry" />
+          <mxGeometry height="60" width="160" x="310" y="230" as="geometry" />
         </mxCell>
         <mxCell id="eal3lvzM3isHt_0vYX2R-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Are the tool developers responsive to questions?" vertex="1">
-          <mxGeometry height="60" width="160" x="590" y="340" as="geometry" />
+          <mxGeometry height="60" width="160" x="600" y="450" as="geometry" />
         </mxCell>
         <mxCell id="eal3lvzM3isHt_0vYX2R-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Are you using the same libraries as the tool developers?" vertex="1">
-          <mxGeometry height="60" width="180" x="380" y="290" as="geometry" />
+          <mxGeometry height="60" width="180" x="450" y="330" as="geometry" />
         </mxCell>
         <mxCell id="eal3lvzM3isHt_0vYX2R-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Are the tool developers still alive?" vertex="1">
-          <mxGeometry height="40" width="190" x="350" y="420" as="geometry" />
+          <mxGeometry height="40" width="190" x="445" y="550" as="geometry" />
         </mxCell>
         <mxCell id="eal3lvzM3isHt_0vYX2R-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Can you get any answers with an Ouija board" vertex="1">
-          <mxGeometry height="60" width="160" x="400" y="500" as="geometry" />
+          <mxGeometry height="60" width="160" x="350" y="640" as="geometry" />
         </mxCell>
         <mxCell id="eal3lvzM3isHt_0vYX2R-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;glass=0;shadow=1;" value="You have enough problems without adding formal methods" vertex="1">
-          <mxGeometry height="60" width="180" x="170" y="590" as="geometry" />
+          <mxGeometry height="60" width="180" x="445" y="840" as="geometry" />
         </mxCell>
         <mxCell id="eal3lvzM3isHt_0vYX2R-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Is the documentation comprehensive, complete, and correct?" vertex="1">
-          <mxGeometry height="60" width="210" x="590" y="450" as="geometry" />
+          <mxGeometry height="60" width="210" x="550" y="640" as="geometry" />
         </mxCell>
         <mxCell id="eal3lvzM3isHt_0vYX2R-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;glass=0;shadow=1;" value="Huh. The formal methods stars may have aligned on your project." vertex="1">
-          <mxGeometry height="60" width="190" x="600" y="590" as="geometry" />
+          <mxGeometry height="60" width="190" x="920" y="830" as="geometry" />
         </mxCell>
         <mxCell id="eal3lvzM3isHt_0vYX2R-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Are you hallucinating or dreaming?" vertex="1">
-          <mxGeometry height="40" width="210" x="450" y="590" as="geometry" />
+          <mxGeometry height="40" width="210" x="635" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="eal3lvzM3isHt_0vYX2R-14" edge="1" parent="1" source="THmRKBEEggR5LSUC0T85-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="eal3lvzM3isHt_0vYX2R-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="120" as="sourcePoint" />
+            <mxPoint x="318" y="159" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eal3lvzM3isHt_0vYX2R-15" edge="1" parent="1" source="eal3lvzM3isHt_0vYX2R-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="eal3lvzM3isHt_0vYX2R-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="220" as="sourcePoint" />
+            <mxPoint x="450" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eal3lvzM3isHt_0vYX2R-16" edge="1" parent="1" source="eal3lvzM3isHt_0vYX2R-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="eal3lvzM3isHt_0vYX2R-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="310" as="sourcePoint" />
+            <mxPoint x="734" y="355" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eal3lvzM3isHt_0vYX2R-17" edge="1" parent="1" source="eal3lvzM3isHt_0vYX2R-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="eal3lvzM3isHt_0vYX2R-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="480" as="sourcePoint" />
+            <mxPoint x="760" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eal3lvzM3isHt_0vYX2R-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Does everyone in your group have a PhD in formal methods?" vertex="1">
+          <mxGeometry height="60" width="180" x="910" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="eal3lvzM3isHt_0vYX2R-21" edge="1" parent="1" source="eal3lvzM3isHt_0vYX2R-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="eal3lvzM3isHt_0vYX2R-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="500" as="sourcePoint" />
+            <mxPoint x="730" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eal3lvzM3isHt_0vYX2R-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Yes you are" vertex="1">
+          <mxGeometry height="40" width="100" x="730" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="eal3lvzM3isHt_0vYX2R-23" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Yes" vertex="1">
+          <mxGeometry height="30" width="80" x="340" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="eal3lvzM3isHt_0vYX2R-24" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Yes" vertex="1">
+          <mxGeometry height="30" width="80" x="490" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="eal3lvzM3isHt_0vYX2R-25" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Yes" vertex="1">
+          <mxGeometry height="30" width="80" x="640" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="eal3lvzM3isHt_0vYX2R-26" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Yes" vertex="1">
+          <mxGeometry height="30" width="80" x="770" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="eal3lvzM3isHt_0vYX2R-27" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="No" vertex="1">
+          <mxGeometry height="30" width="80" x="540" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="eal3lvzM3isHt_0vYX2R-28" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="No" vertex="1">
+          <mxGeometry height="30" width="80" x="390" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="eal3lvzM3isHt_0vYX2R-29" edge="1" parent="1" source="eal3lvzM3isHt_0vYX2R-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.458;exitY=1.025;exitDx=0;exitDy=0;exitPerimeter=0;" target="eal3lvzM3isHt_0vYX2R-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="520" as="sourcePoint" />
+            <mxPoint x="700" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eal3lvzM3isHt_0vYX2R-30" edge="1" parent="1" source="eal3lvzM3isHt_0vYX2R-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.468;exitY=1.088;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="eal3lvzM3isHt_0vYX2R-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="642" y="600" as="sourcePoint" />
+            <mxPoint x="540" y="649" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
